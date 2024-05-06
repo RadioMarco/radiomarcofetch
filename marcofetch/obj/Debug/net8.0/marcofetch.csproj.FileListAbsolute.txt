@@ -1,0 +1,14 @@
+C:\Users\mrezzoli\source\repos\marcofetch\marcofetch\bin\Debug\net8.0\marcofetch.exe
+C:\Users\mrezzoli\source\repos\marcofetch\marcofetch\bin\Debug\net8.0\marcofetch.deps.json
+C:\Users\mrezzoli\source\repos\marcofetch\marcofetch\bin\Debug\net8.0\marcofetch.runtimeconfig.json
+C:\Users\mrezzoli\source\repos\marcofetch\marcofetch\bin\Debug\net8.0\marcofetch.dll
+C:\Users\mrezzoli\source\repos\marcofetch\marcofetch\bin\Debug\net8.0\marcofetch.pdb
+C:\Users\mrezzoli\source\repos\marcofetch\marcofetch\obj\Debug\net8.0\marcofetch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrezzoli\source\repos\marcofetch\marcofetch\obj\Debug\net8.0\marcofetch.AssemblyInfoInputs.cache
+C:\Users\mrezzoli\source\repos\marcofetch\marcofetch\obj\Debug\net8.0\marcofetch.AssemblyInfo.cs
+C:\Users\mrezzoli\source\repos\marcofetch\marcofetch\obj\Debug\net8.0\marcofetch.csproj.CoreCompileInputs.cache
+C:\Users\mrezzoli\source\repos\marcofetch\marcofetch\obj\Debug\net8.0\marcofetch.dll
+C:\Users\mrezzoli\source\repos\marcofetch\marcofetch\obj\Debug\net8.0\refint\marcofetch.dll
+C:\Users\mrezzoli\source\repos\marcofetch\marcofetch\obj\Debug\net8.0\marcofetch.pdb
+C:\Users\mrezzoli\source\repos\marcofetch\marcofetch\obj\Debug\net8.0\marcofetch.genruntimeconfig.cache
+C:\Users\mrezzoli\source\repos\marcofetch\marcofetch\obj\Debug\net8.0\ref\marcofetch.dll
